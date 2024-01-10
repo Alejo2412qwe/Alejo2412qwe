@@ -9,7 +9,7 @@
 - 👯 ¡Estoy buscando colabrorar como Desarrollador Back-End en proyectos, ya que me enfoco en éste apartado, debido a que no me considero un experto en Front-End pero podría realizarlo sin ningún problema!
 - 💬 Pregúntame sobre Java, MySQL, PostgreSQL, Angular.
 - 📫 Cómo contactarme: 
-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="50" height="50">: coraspe.alejandro2@gmail.com 
+- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">: coraspe.alejandro2@gmail.com 
 - Facebook: https://www.facebook.com/alejandro.coraspe.56/about?locale=es_LA
 - LinkedIn: linkedin.com/in/alejandro-coraspe-a7176a242
 - 😄 Pronombres: Alejo
