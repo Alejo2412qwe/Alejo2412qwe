@@ -16,7 +16,7 @@
 
 ## Tecnologías que Manejo 🚀
 
-¡Hola de nuevo! Aquí te comparto un resumen de las tecnologías con las que estoy familiarizado:
+Aquí te comparto un resumen de las tecnologías con las que estoy familiarizado:
 
 ### Lenguajes de Programación:
 - Java
@@ -28,11 +28,10 @@
 
 ### Frameworks:
 - Angular
+- React (Actualmente en aprendizaje)
 
 ### Otros:
 - Desarrollo Back-End
 - Experiencia en proyectos con Java, MySQL, y Angular
 
-¡Estoy emocionado por seguir expandiendo mi conocimiento y habilidades en el mundo del desarrollo de software! Si tienes alguna pregunta o proyecto en mente, no dudes en ponerte en contacto conmigo. 😊
-
-- 😄 Puedes llamarme Alejo y siempre estaré disponible para ofertas, ¡GRACIAS POR VISITAR MI PERFIL!
+¡Estoy emocionado por seguir expandiendo mi conocimiento y habilidades en el mundo del desarrollo de software! Si tienes alguna pregunta o proyecto en mente, no dudes en ponerte en contacto conmigo, ¡GRACIAS POR VISITAR MI PERFIL!. 😊
