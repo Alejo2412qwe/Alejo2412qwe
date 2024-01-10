@@ -26,9 +26,13 @@ Aquí te comparto un resumen de las tecnologías con las que estoy familiarizado
 - MySQL
 - PostgreSQL
 
-### Frameworks:
+### Frameworks Front-End:
 - Angular
 - React (Actualmente en aprendizaje)
+
+### Frameworks Back-End:
+- Springboot
+- Flask (Actualmente en aprendizaje)
 
 ### Otros:
 - Desarrollo Back-End
