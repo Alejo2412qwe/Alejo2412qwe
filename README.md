@@ -12,7 +12,9 @@
 - <a href="mailto:coraspe.alejandro2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">  
 </a>
-- Facebook: https://www.facebook.com/alejandro.coraspe.56/about?locale=es_LA
+- <a href="https://www.facebook.com/alejandro.coraspe.56" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
 - <a href="linkedin.com/in/alejandro-coraspe-a7176a242" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a> 
