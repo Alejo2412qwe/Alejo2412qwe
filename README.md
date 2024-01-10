@@ -12,4 +12,4 @@
   - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coraspe.alejandro2@gmail.com)
   - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alejandro.coraspe.56)
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-coraspe-a7176a242)
-- 😄 Pronombres: Alejo
+- 😄 Puedes llamarme Alejo y siempre estaré disponible para ofertas, ¡GRACIAS POR VISITAR MI PERFIL!
