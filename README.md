@@ -27,11 +27,11 @@ Aquí te comparto un resumen de las tecnologías con las que estoy familiarizado
 
 ### Frameworks Front-End:
 - Angular
-- React (Actualmente en aprendizaje)
+- Django (Actualmente en aprendizaje)
 
 ### Frameworks Back-End:
 - Springboot
-- Flask (Actualmente en aprendizaje)
+- NodeJS (Actualmente en aprendizaje)
 
 ### Otros:
 - Desarrollo Back-End
