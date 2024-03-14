@@ -1,6 +1,6 @@
 # Hola, soy Alejandro Coraspe 👋
 
-¡Bienvenido a mi perfil de GitHub! Me llamo Alejandro José Coraspe Cedeño y actualmente me dedico al desarrollo de software. Elegí este camino en mi vida porque desde muy joven me interesó la tecnología, y cuando descubrí que de esta forma se puede crear e interactuar con ella, me enamoré del desarrollo de software. Tengo 21 años y muchas ganas de seguir aprendiendo en este mundo maravilloso.
+¡Bienvenido a mi perfil de GitHub! Me llamo Alejandro José Coraspe Cedeño, soy de Venezuela y actualmente me dedico al desarrollo de software. Elegí este camino en mi vida porque desde muy joven me interesó la tecnología, y cuando descubrí que de esta forma se puede crear e interactuar con ella, me enamoré del desarrollo de software. Tengo 21 años y muchas ganas de seguir aprendiendo en este mundo maravilloso.
 
 - 🔭 Actualmente estoy esperando mi título profesional como "Tecnólogo en Desarrollo de Software".
 - 🌱 Mi lengua nativa es el español. También hablo inglés intermedio-avanzado y actualmente estoy aprendiendo portugués.
