@@ -16,6 +16,12 @@
 
 Here I share a summary of the technologies I am familiar with:
 
+### Languages:
+- Java 
+- Python
+- JavaScript
+- TypeScript
+  
 ### BackEnd:
 - Java (Spring)
 - Python (Flask)
