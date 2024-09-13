@@ -1,40 +1,32 @@
-# Hola, soy Alejandro Coraspe 👋
+# Hello, I'm Alejandro Coraspe 👋
 
-¡Bienvenido a mi perfil de GitHub! Me llamo Alejandro José Coraspe Cedeño, soy de Venezuela y actualmente me dedico al desarrollo de software. Elegí este camino en mi vida porque desde muy joven me interesó la tecnología, y cuando descubrí que de esta forma se puede crear e interactuar con ella, me enamoré del desarrollo de software. Tengo 21 años y muchas ganas de seguir aprendiendo en este mundo maravilloso.
+¡Welcome to my GitHub profile! My name is Alejandro José Coraspe Cedeño, I'm from Venezuela and I'm currently dedicated to software development. I chose this path in my life because I was interested in technology from a young age, and when I discovered that this way you could create and interact with it, I fell in love with software development.
 
-- 🔭 Actualmente estoy esperando mi título profesional como "Tecnólogo en Desarrollo de Software".
-- 🌱 Mi lengua nativa es el español. También hablo inglés intermedio-avanzado y actualmente estoy aprendiendo portugués.
-- 👯 Estoy buscando colaborar como Desarrollador Back-End en proyectos, ya que me enfoco en este ámbito. Aunque no me considero un experto en Front-End, puedo realizarlo sin ningún problema.
+- 🌱 My native language is Spanish. I also speak intermediate-advanced English and am currently learning Portuguese.
+- 👯 I am looking to collaborate as a Back-End Developer on projects, as I focus on this scope. Although I don't consider myself an expert in Front-End, I can do it without any problems.
 
-## Cómo contactarme:
+## How to contact me:
 
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coraspe.alejandro2@gmail.com)
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alejandro.coraspe.56)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-coraspe-a7176a242)
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/599778645455667220)
 
-## Tecnologías que Manejo 🚀
+## Technologies I Manage 🚀
 
-Aquí te comparto un resumen de las tecnologías con las que estoy familiarizado:
+Here I share a summary of the technologies I am familiar with:
 
-### Lenguajes de Programación:
-- Java
-- Python (Actualmente en aprendizaje)
+### BackEnd:
+- Java (Spring)
+- Python (Flask)
 
-### Bases de Datos:
+### Databases:
 - MySQL
 - PostgreSQL
+- MongoDB
 
-### Frameworks Front-End:
+### FrontEnd:
 - Angular
-- Django (Actualmente en aprendizaje)
+- React
 
-### Frameworks Back-End:
-- Springboot
-- NodeJS (Actualmente en aprendizaje)
-
-### Otros:
-- Desarrollo Back-End
-- Experiencia en proyectos con Java, MySQL, y Angular
-
-¡Estoy emocionado por seguir expandiendo mi conocimiento y habilidades en el mundo del desarrollo de software! Si tienes alguna pregunta o proyecto en mente, no dudes en ponerte en contacto conmigo, ¡GRACIAS POR VISITAR MI PERFIL!. 😊
+¡I'm excited to continue expanding my knowledge and skills in the world of software development! If you have someone asking about the project in mind, don't hesitate to contact me, THANKS FOR VISITING MY PROFILE!. 😊
