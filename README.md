@@ -35,4 +35,4 @@ Here I share a summary of the technologies I am familiar with:
 - Angular
 - React
 
-¡I'm excited to continue expanding my knowledge and skills in the world of software development! If you have someone asking about the project in mind, don't hesitate to contact me, THANKS FOR VISITING MY PROFILE!. 😊
+¡I'm excited to continue expanding my knowledge and skills in the world of software development! If you have someone asking about the project in mind, don't hesitate to contact me. 😊
