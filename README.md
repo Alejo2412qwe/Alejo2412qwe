@@ -24,7 +24,6 @@ Here I share a summary of the technologies I am familiar with:
   
 ### BackEnd:
 - Java (Spring)
-- Python (Flask)
 
 ### Databases:
 - MySQL
