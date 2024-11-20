@@ -16,14 +16,9 @@
 
 Here I share a summary of the technologies I am familiar with:
 
-### Languages:
-- Java 
-- Python
-- JavaScript
-- TypeScript
-  
 ### BackEnd:
 - Java (Spring)
+- Python (Django)
 
 ### Databases:
 - MySQL
@@ -33,5 +28,6 @@ Here I share a summary of the technologies I am familiar with:
 ### FrontEnd:
 - Angular
 - React
+- Flutter
 
 ¡I'm excited to continue expanding my knowledge and skills in the world of software development! If you have someone asking about the project in mind, don't hesitate to contact me. 😊
