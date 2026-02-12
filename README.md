@@ -53,7 +53,7 @@ I specialize in backend systems, REST APIs and database design. I enjoy transfor
 ## 📫 Contact
 
 - 📧 Email: coraspe.alejandro2@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/alejandro-coraspe-a7176a242
+- 💼 LinkedIn: https://www.linkedin.com/in/coraspealejo/
 - 💻 GitHub: https://github.com/Alejo2412qwe
 
 ---
