@@ -38,7 +38,7 @@ I specialize in backend systems, REST APIs and database design. I enjoy transfor
 
 - Spanish (Native)
 - English (Intermediate-Advanced)
-- Portuguese (Learning)
+- Portuguese (Intermediate)
 
 ---
 
