@@ -1,33 +1,61 @@
-# Hello, I'm Alejandro Coraspe 👋
+# 👋 Hi, I'm Alejandro Coraspe
 
-¡Welcome to my GitHub profile! My name is Alejandro José Coraspe Cedeño, I'm from Venezuela and I'm currently dedicated to software development. I chose this path in my life because I was interested in technology from a young age, and when I discovered that this way you could create and interact with it, I fell in love with software development.
+Back-End Developer focused on building scalable, clean and maintainable software.
 
-- 🌱 My native language is Spanish. I also speak intermediate-advanced English and am currently learning Portuguese.
-- 👯 I am looking to collaborate as a Back-End Developer on projects, as I focus on this scope. Although I don't consider myself an expert in Front-End, I can do it without any problems.
+I specialize in backend systems, REST APIs and database design. I enjoy transforming real-world problems into efficient and structured solutions using solid architecture and clean code principles.
 
-## How to contact me:
+---
 
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coraspe.alejandro2@gmail.com)
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alejandro.coraspe.56)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-coraspe-a7176a242)
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/599778645455667220)
+## 🚀 Tech Stack
 
-## Technologies I Manage 🚀
+### 🖥 Back-End
+- Java (Spring Boot)
+- Python (Django, REST APIs)
 
-Here I share a summary of the technologies I am familiar with:
-
-### BackEnd:
-- Java (Spring)
-- Python (Django)
-
-### Databases:
-- MySQL
+### 🗄 Databases
 - PostgreSQL
+- MySQL
 - MongoDB
 
-### FrontEnd:
+### 🌐 Front-End (Complementary)
 - Angular
 - React
 - Flutter
 
-¡I'm excited to continue expanding my knowledge and skills in the world of software development! If you have someone asking about the project in mind, don't hesitate to contact me. 😊
+---
+
+## 🧠 What I Bring
+
+- Clean and maintainable code
+- REST API design & implementation
+- Database modeling and optimization
+- Git workflow & collaborative development
+- Problem-solving mindset focused on performance and structure
+
+---
+
+## 🌍 Languages
+
+- Spanish (Native)
+- English (Intermediate-Advanced)
+- Portuguese (Learning)
+
+---
+
+## 📌 Currently
+
+- Focused on growing as a Back-End Developer
+- Building and improving real-world backend projects
+- Open to collaboration and professional opportunities
+
+---
+
+## 📫 Contact
+
+- 📧 Email: coraspe.alejandro2@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/alejandro-coraspe-a7176a242
+- 💻 GitHub: https://github.com/Alejo2412qwe
+
+---
+
+> "Good code is not just written. It is designed."
